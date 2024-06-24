@@ -1,0 +1,22 @@
+{
+  "news_title": "عنوان الأخبار",
+  "pick_your_category_of_interest": "إختر الفئة التى تهتم بها",
+  "sports": "الرياضة",
+  "politics": "السياسة",
+  "health": "الصحة",
+  "business": "التجارة",
+  "environment": "البيئة",
+  "science": "العلوم",
+  "categories": "الفئات",
+  "settings": "الإعدادات",
+  "news_app!": "تطبيق الأخبار",
+  "language": "اللغة",
+  "english": "اللغة الإنجليزية",
+  "arabic": "اللغة العربية",
+  "search_article": "محرك البحث",
+  "search_engine_is_empty_..": "محرك البحث فارغ ..",
+  "article_details": "تفاصيل الخبر",
+  "view_full_article": "عرض المقال كامل",
+  "could_not_launch": "حدثت مشكلة فى الرابط",
+  "something_went_wrong_in_getSources": "حدث خطأ ما فى مصادر الأخبار"
+}

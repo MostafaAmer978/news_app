@@ -1,0 +1,22 @@
+{
+  "news_title": "News Title",
+  "pick_your_category_of_interest": "Pick your category of interest",
+  "sports": "Sports",
+  "politics": "Politics",
+  "health": "Health",
+  "business": "Business",
+  "environment": "Environment",
+  "science": "Science",
+  "categories": "Categories",
+  "settings": "Settings",
+  "news_app!": "News App!",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "search_article": "Search Article",
+  "search_engine_is_empty_..": "Search Engine is Empty ..",
+  "article_details": "Article Details",
+  "view_full_article": "View Full Article",
+  "could_not_launch": "Could not launch",
+  "something_went_wrong_in_getSources": "Something went wrong in getSources"
+}
