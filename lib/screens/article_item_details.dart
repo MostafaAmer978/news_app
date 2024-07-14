@@ -133,6 +133,7 @@ class ArticleItemDetails extends StatelessWidget {
                 ),
               )
             ],
+
           ),
         ),
       ),
